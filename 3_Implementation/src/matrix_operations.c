@@ -1,12 +1,3 @@
-/**
- * @file matrix_operations.c
- * @brief  This is the source code which contains all the functions for the project
- * @version 0.1
- * @date 2021-04-15
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 #include "matrix_operations.h"
 
 
